@@ -95,10 +95,10 @@
 #
 # In order to get the next test to pass, your function will need to accept an *argument*.
 #
-#     def greet(who)
-#       "Hello, #{who}!"
-#     end
-#
+# => def greet(who)
+#		"Hello, #{who}!"
+# => end
+
 require "hello"
 
 describe "the hello function" do
